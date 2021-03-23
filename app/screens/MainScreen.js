@@ -4,6 +4,7 @@ function MainScreen(props) {
     return (
         <View>
             <Text style={styles.text}> MAin screen</Text>
+            <Text style={styles.text}> MAin screen</Text>
         </View>
     );
 }
